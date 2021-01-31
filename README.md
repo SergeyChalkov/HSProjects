@@ -4,4 +4,4 @@
 - [x] Completed:
   - Python
     1. Coffee Machine
-    
+    2. Hangman
